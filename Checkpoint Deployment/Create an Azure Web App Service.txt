@@ -1,0 +1,15 @@
+in Azure Portal:
+
+Create a Resource > Web App.
+
+Fill in:
+
+App Name (e.g., my-mern-app).
+
+Runtime Stack: Node.js (LTS).
+
+OS: Linux (recommended for Node.js).
+
+Region: Choose nearest location.
+
+Pricing Tier: Free (F1) or Basic (B1) for small apps.

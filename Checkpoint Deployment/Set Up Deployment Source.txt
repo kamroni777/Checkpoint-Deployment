@@ -1,0 +1,17 @@
+In  Web App’s Deployment Center:
+
+Choose GitHub (if using GitHub) or Local Git (manual push).
+
+If using Local Git:
+
+Azure provides a Git URL (e.g., https://my-mern-app.scm.azurewebsites.net).
+
+Clone it locally:
+git clone https://my-mern-app.scm.azurewebsites.net
+
+Copy  backend + frontend files into the repo.
+
+Commit & push:
+git add .
+git commit -m "Deploy MERN app"
+git push origin master

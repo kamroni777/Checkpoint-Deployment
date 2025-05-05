@@ -1,0 +1,11 @@
+In Azure Portal:
+
+Go to Configuration > Application Settings.
+
+Add:
+
+MONGODB_URI.
+
+PORT (Default: 80 for Azure Web Apps).
+
+NODE_ENV=production.

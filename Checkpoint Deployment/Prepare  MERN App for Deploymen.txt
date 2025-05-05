@@ -1,0 +1,7 @@
+Backend (Node.js/Express)
+MONGODB_URI=mongodb+srv://username:password@cluster0.xxxxx.mongodb.net/dbname?retryWrites=true&w=majority
+PORT=3000
+Frontend (React)
+npm run build (creates a build/ folder).
+
+build/ contents into backend (e.g., server/public/)

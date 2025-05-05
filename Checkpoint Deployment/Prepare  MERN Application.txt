@@ -1,0 +1,3 @@
+Ensure  app is fully developed and tested locally.
+Backend (Node.js/Express) must connect to MongoDB.
+Frontend (React) should be production-ready (npm run build).

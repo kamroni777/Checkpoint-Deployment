@@ -1,0 +1,8 @@
+Visit  app URL: https://my-mern-app.azurewebsites.net.
+ Verify:
+
+Frontend loads correctly.
+
+Backend APIs work (e.g., test /api/users).
+
+MongoDB connection is active.
